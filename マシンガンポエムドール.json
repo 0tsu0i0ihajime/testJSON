@@ -1,0 +1,31 @@
+{
+    "musicPath": "./Music/マシンガンポエムドール.mp3",
+    "name":"マシンガンポエムドール",
+    "maxNotesBlock": 6,
+    "BPM": 110,
+    "offset": 0,
+    "notesData": [
+        {
+            "time": 0,
+            "notesPosition":[
+                {
+                    "notesLine":1,
+                    "notesType":"long"
+                },
+                {
+                    "notesLine":2,
+                    "notesType":"tap"
+                }
+            ]
+        },
+        {
+            "time": 1,
+            "notesPosition":[
+                {
+                    "notesLine":1,
+                    "noteType":"long"
+                }
+            ]
+        }
+    ]
+}
